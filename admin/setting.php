@@ -28,7 +28,7 @@ include('admincore.php');
 <tr>
     <td width="125" align="right" valign="middle" class="s_title">网站名称：</td>
     <td width="690" valign="middle"><input name="edit" id="edit" type="hidden" value="1" /><input type="text" name="aik[sitename]" value="<?php echo $aik['sitename']?>" size="50">
-      <span class="gray tips">如：智云影院</span></td>
+      <span class="gray tips">如：极光影院</span></td>
 </tr>
 <tr>
     <td width="125" align="right" valign="middle" class="s_title">网站域名：</td>
